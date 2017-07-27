@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/winnerhp/issues-test#readme",
   "devDependencies": {
-    "css-loader": "^0.26.2",
-    "extract-text-webpack-plugin": "^2.0.0",
-    "style-loader": "^0.13.2",
-    "webpack": "^2.2.1"
+    "css-loader": "0.26.2",
+    "extract-text-webpack-plugin": "2.0.0",
+    "style-loader": "0.13.2",
+    "webpack": "2.2.1",
+    "html-webpack-plugin": "2.28.0"
   }
 }
