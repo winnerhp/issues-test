@@ -1,0 +1,26 @@
+{
+  "name": "issues-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/webpack --config webpack.dev.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnerhp/issues-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnerhp/issues-test/issues"
+  },
+  "homepage": "https://github.com/winnerhp/issues-test#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  }
+}
